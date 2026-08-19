@@ -1,3 +1,4 @@
+#Question: How would you develop a Python program to calculate the frequency distribution of words  in a text document? 
 from collections import Counter
 
 file = open("sample_text.txt", "r")
