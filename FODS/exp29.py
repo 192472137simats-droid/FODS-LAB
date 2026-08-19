@@ -1,3 +1,6 @@
+#Scenario: Decision Tree for Iris Flower Classification 
+#You are analyzing the famous Iris flower dataset to classify iris flowers into three species based on  their sepal and petal dimensions. You want to use a Decision Tree classifier to accomplish this task.  Write a Python program that loads the Iris dataset from scikit-learn, and allows the user to input the  sepal length, sepal width, petal length, and petal width of a new flower. The program should then use  the Decision Tree classifier to predict the species of the new flower. 
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.tree import DecisionTreeClassifier, plot_tree
