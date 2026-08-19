@@ -1,3 +1,5 @@
+#Question: How would you find the average price of all the products sold in the past month? Assume  3x3 matrix with each row representing the sales for a different product 
+
 import numpy as np
 
 # 3x3 matrix: rows = products, columns = price entries recorded
