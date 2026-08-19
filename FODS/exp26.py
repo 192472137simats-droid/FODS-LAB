@@ -1,3 +1,6 @@
+#You are a researcher working in a medical lab, investigating the effectiveness of a new  treatment for a specific disease. You have collected data from a clinical trial with two groups: a control 
+#group receiving a placebo, and a treatment group receiving the new drug.Your goal is to analyze the  data using hypothesis testing and calculate the p-value to determine if the new treatment has a statistically significant effect compared to the placebo. You will use the matplotlib library to visualize  the data and the p-value. 
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy import stats
