@@ -1,3 +1,5 @@
+#Question: 
+#"Based on the data collected from the A/B test, is there a statistically significant difference in the mean  conversion rates between website design A and website design B?" 
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy import stats
