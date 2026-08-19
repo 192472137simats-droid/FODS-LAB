@@ -1,3 +1,6 @@
+# Classification and Regression Trees (CART) for Car Price Prediction 
+#You are working for a car dealership, and you want to predict the price of used cars based on various  features such as the car's mileage, age, brand, and engine type. You have collected a dataset of used  cars with their respective prices. 
+#Write a Python program that loads the car dataset and allows the user to input the features of a new car  they want to sell. The program should use the Classification and Regression Trees (CART) algorithm  from scikit-learn to predict the price of the new car based on the input features. The CART algorithm  will create a tree-based model that will split the data into subsets based on the chosen features and their  values, leading to a decision path that eventually predicts the price of the car. The program should  output the predicted price and display the decision path (the sequence of conditions leading to the  prediction) for the new car. 
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.tree import DecisionTreeRegressor, plot_tree, export_text
