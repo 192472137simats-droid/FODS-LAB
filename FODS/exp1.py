@@ -1,5 +1,5 @@
 #1. Scenario: You are working on a project that involves analyzing student performance data for a class of 32 students. The data is stored in a NumPy array named student_scores, where each row represents a student and each column represents a different subject. The subjects are arranged in the  following order: Math, Science, English, and History. Your task is to calculate the average score for each subject and identify the subject with the highest average score. 
-Question: How would you use NumPy arrays to calculate the average score for each subject and determine the subject with the highest average score? Assume 4x4 matrix that stores marks of each student in given order. 
+#Question: How would you use NumPy arrays to calculate the average score for each subject and determine the subject with the highest average score? Assume 4x4 matrix that stores marks of each student in given order. 
 
 import numpy as np
 
