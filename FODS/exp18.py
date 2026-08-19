@@ -1,3 +1,5 @@
+#Question: Develop a Python program to calculate the frequency distribution of likes among the posts? 
+
 import pandas as pd
 
 data = {
