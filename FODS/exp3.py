@@ -1,3 +1,4 @@
+#Question: Using NumPy arrays and operations, how would you find the average sale price of houses  with more than four bedrooms in the neighborhood? 
 import numpy as np
 
 # house_data: each row = [bedrooms, square_footage, sale_price]
