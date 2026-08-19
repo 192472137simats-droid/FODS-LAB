@@ -1,3 +1,6 @@
+#Question: 
+#1. How would you develop a Python program to create a line plot of the monthly sales data?
+# 2: How would you develop a Python program to create a bar plot of the monthly sales data? 
 import matplotlib.pyplot as plt
 
 months = ['Jan','Feb','Mar','Apr','May','Jun']
