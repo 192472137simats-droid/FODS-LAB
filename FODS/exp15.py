@@ -1,3 +1,7 @@
+#Question: Write a python program will take in a dataset containing daily temperature readings for each  city over a year and perform the following tasks: 
+#1. Calculate the mean temperature for each city. 
+#2. Calculate the standard deviation of temperature for each city. 
+#3. Determine the city with the highest temperature range (difference between the highest and lowest  temperatures). 
 import pandas as pd
 
 data = {
