@@ -1,3 +1,8 @@
+#Question: 
+#• Calculate the mean, median and standard deviation of age and %fat using Pandas.
+#• Draw the boxplots for age and %fat. 
+#• Draw a scatter plot and a q-q plot based on these two variables 
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
