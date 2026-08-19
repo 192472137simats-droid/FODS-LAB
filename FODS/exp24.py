@@ -1,3 +1,6 @@
+#Question: 
+#write a Python program that allows the user to input the sample size, confidence level, and desired level of precision. 
+
 import pandas as pd
 import numpy as np
 from scipy import stats
