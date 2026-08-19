@@ -1,3 +1,5 @@
+#Question: 
+#"What is the 95% confidence interval for the mean reduction in blood pressure for patients who received the new drug? Also, what is the 95% confidence interval for the mean reduction in blood pressure for patients who received the placebo? 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
