@@ -1,3 +1,7 @@
+#Question: 
+#• You will use the pandas library to calculate confidence intervals to estimate the true population mean rating. 
+#• You have been provided with a CSV file named "customer_reviews.csv," which contains  customer ratings for products in the chosen category. 
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy import stats
