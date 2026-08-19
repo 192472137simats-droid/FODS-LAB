@@ -1,0 +1,14 @@
+# --- web app (primary) ---
+fastapi>=0.110
+uvicorn>=0.27
+# --- ML pipeline ---
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+scipy>=1.10
+# --- optional LLM "Smart Mode" ---
+# No SDK needed — uses the Python standard library to call any OpenAI-compatible
+# provider (Groq, Google Gemini, OpenRouter, Mistral...). Just set a free API key.
+# --- optional Streamlit UI (alternative front-end) ---
+streamlit>=1.30
+matplotlib>=3.7

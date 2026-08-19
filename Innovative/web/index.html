@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>StartupAdvisorLM</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wrap">
+
+    <!-- header -->
+    <header class="head">
+      <div>
+        <h1>🚀 StartupAdvisor<span class="lm">LM</span></h1>
+        <p class="tag">AI Business Idea Validation Assistant — type an idea, get a verdict.</p>
+      </div>
+      <span class="badge badge-fods">FODS PROJECT</span>
+    </header>
+
+    <!-- input -->
+    <section class="card input-card">
+      <h2 class="step">1 · Describe your idea</h2>
+      <textarea id="idea" rows="3"
+        placeholder="e.g. An app that delivers home-cooked meals from verified local chefs"></textarea>
+
+      <div class="sliders">
+        <label>👥 Team size <b id="team_val">8</b>
+          <input type="range" id="team" min="1" max="25" value="8" />
+        </label>
+        <label>💰 Planned funding (₹k) <b id="fund_val">150</b>
+          <input type="range" id="fund" min="5" max="600" step="5" value="150" />
+        </label>
+        <label>📈 Target market (1–10) <b id="mkt_val">6</b>
+          <input type="range" id="mkt" min="1" max="10" value="6" />
+        </label>
+      </div>
+
+      <label id="smart_toggle_row" class="smart-toggle">
+        <input type="checkbox" id="smart" />
+        <span>🧠 <b>Smart Mode</b> — add AI-written advice (uses a free LLM)</span>
+        <em id="smart_note"></em>
+      </label>
+
+      <button id="go" class="btn">VALIDATE IDEA →</button>
+    </section>
+
+    <!-- results (hidden until first validation) -->
+    <section id="results" class="hidden">
+
+      <h2 class="step">2 · Verdict</h2>
+      <div id="verdict" class="card verdict">
+        <div class="v-score"><span id="v_num">0</span><small>/100</small></div>
+        <div>
+          <div id="v_label" class="v-label">—</div>
+          <div id="v_reason" class="v-reason"></div>
+        </div>
+      </div>
+
+      <div class="stats">
+        <div class="stat c-blue"><span class="s-lbl">Category</span>
+          <b id="s_cat">—</b><span id="s_cat_sub" class="s-sub"></span></div>
+        <div class="stat c-pink"><span class="s-lbl">Success odds</span>
+          <b id="s_succ">—</b><span class="s-sub">logistic model</span></div>
+        <div class="stat c-green"><span class="s-lbl">Sentiment</span>
+          <b id="s_sent">—</b><span id="s_sent_sub" class="s-sub"></span></div>
+        <div class="stat c-orange"><span class="s-lbl">Novelty</span>
+          <b id="s_nov">—</b><span class="s-sub">less crowded = higher</span></div>
+      </div>
+
+      <div id="chips" class="chips"></div>
+
+      <h2 class="step">3 · Dashboard</h2>
+      <div class="grid2">
+        <div class="card chart"><h3>Validation profile</h3><div id="radar"></div></div>
+        <div class="card chart"><h3>Category match</h3><div id="catbars" class="bars"></div></div>
+        <div class="card chart"><h3>Nearest existing ideas</h3><div id="compbars" class="bars"></div></div>
+        <div class="card chart"><h3>Customer segments</h3><div id="scatter"></div>
+          <div id="scatter_leg" class="legend"></div></div>
+      </div>
+
+      <h2 class="step">4 · Insights</h2>
+      <div class="grid2">
+        <div class="card">
+          <h3>🎯 Ideal customer</h3>
+          <div id="seg_label" class="seg-label">—</div>
+          <div id="seg_sub" class="s-sub"></div>
+          <div id="weakness" class="weakness"></div>
+        </div>
+        <div class="card">
+          <h3>🥊 Nearest ideas</h3>
+          <div id="comptable" class="table-wrap"></div>
+        </div>
+      </div>
+
+      <section id="smart_section" class="hidden">
+        <h2 class="step">5 · 🧠 Smart advisor</h2>
+        <div id="smart_card" class="card smart-card">
+          <div id="smart_body"></div>
+        </div>
+      </section>
+
+      <details class="card method">
+        <summary>How was this scored?  (methodology)</summary>
+        <table class="method-table">
+          <tr><th>Axis</th><th>Weight</th><th>Source</th></tr>
+          <tr><td>Success</td><td>35%</td><td>Logistic Regression on your plan</td></tr>
+          <tr><td>Novelty</td><td>20%</td><td>1 − similarity to nearest idea</td></tr>
+          <tr><td>Sentiment</td><td>20%</td><td>Naive Bayes on market reviews</td></tr>
+          <tr><td>Market</td><td>15%</td><td>Your target market size</td></tr>
+          <tr><td>Category</td><td>10%</td><td>Historical success rate</td></tr>
+        </table>
+      </details>
+    </section>
+
+    <footer class="foot">Runs fully offline · FastAPI + a hand-built frontend on the FODS ML pipeline.</footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

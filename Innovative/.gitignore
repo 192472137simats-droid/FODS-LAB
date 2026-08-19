@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets — never commit API keys (the app reads GROQ_API_KEY from the OS env)
+.env
+.env.*
+*.key
+
+# Saved models (regenerate with train.py / generate_data.py)
+*.pkl
+models/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.ipynb_checkpoints/

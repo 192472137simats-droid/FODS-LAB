@@ -1,0 +1,361 @@
+category,review,label
+FinTech,The credit card feature is easy to use.,positive
+Ecommerce,"The handmade products works great, but it is overpriced.",negative
+Gaming,The play to earn rewards is way too slow.,negative
+FoodTech,The recipes is disappointing.,negative
+Ecommerce,The d2c is overpriced.,negative
+Gaming,"The fantasy sports is very reliable, but it is terrible.",negative
+HealthTech,The health tracking is frustrating.,negative
+FoodTech,The food delivery has poor support.,negative
+FoodTech,The catering is terrible.,negative
+HealthTech,The healthcare feature is worth every rupee.,positive
+EdTech,"The edtech works great, but it is confusing to use.",positive
+Gaming,The level challenges is a waste of money.,negative
+Travel,The booking keeps crashing.,negative
+Ecommerce,"The ecommerce is very reliable, but it is disappointing.",positive
+EdTech,The quizzes feature is worth every rupee.,positive
+Gaming,The in game rewards feature has excellent support.,positive
+Ecommerce,The dropshipping is way too slow.,negative
+SaaS,The team productivity feature saves me so much time.,positive
+FinTech,The loans is disappointing.,negative
+Gaming,The gaming feature saves me so much time.,positive
+SaaS,The enterprise software feature is amazing.,positive
+FinTech,The insurance is full of bugs.,negative
+FoodTech,The food feature is amazing.,positive
+FinTech,The credit card feature is super helpful.,positive
+HealthTech,The fitness coaching feature runs smoothly.,positive
+Gaming,The game studio is frustrating.,negative
+FoodTech,The recipes feature is easy to use.,positive
+EdTech,The exam prep is confusing to use.,negative
+SaaS,The workspace is disappointing.,negative
+Travel,"The holidays saves me so much time, but it is full of bugs.",negative
+EdTech,The study groups feature is a game changer.,positive
+FinTech,The lending feature is very reliable.,positive
+Gaming,The gaming feature works great.,positive
+FinTech,The finance feature runs smoothly.,positive
+Travel,The booking feature is super helpful.,positive
+EdTech,The virtual classroom is a waste of money.,negative
+Gaming,"The players is amazing, but it is disappointing.",negative
+FoodTech,The restaurant booking has poor support.,negative
+FinTech,The payments feature runs smoothly.,positive
+SaaS,The remote teams feature runs smoothly.,positive
+FinTech,The lending is full of bugs.,negative
+Gaming,The tournaments feature is very reliable.,positive
+FoodTech,The catering is full of bugs.,negative
+Gaming,"The mobile game is worth every rupee, but it is overpriced.",negative
+FinTech,The insurance is terrible.,negative
+SaaS,The productivity software feature is very reliable.,positive
+Travel,The local tours feature is super helpful.,positive
+FinTech,"The micro loans saves me so much time, but it is a waste of money.",positive
+FinTech,The finance feature is easy to use.,positive
+HealthTech,The yoga classes is disappointing.,negative
+Ecommerce,The local sellers feature is worth every rupee.,positive
+SaaS,The dashboard is a waste of money.,negative
+SaaS,The dashboard feature is a game changer.,positive
+Ecommerce,The brand outlet is full of bugs.,negative
+FinTech,The insurance feature runs smoothly.,positive
+FoodTech,The grocery delivery keeps crashing.,negative
+HealthTech,The fitness coaching feature is super helpful.,positive
+HealthTech,The healthcare feature is super helpful.,positive
+Gaming,The in game rewards is a waste of money.,negative
+Ecommerce,The handmade products feature is a game changer.,positive
+FoodTech,The food feature has excellent support.,positive
+Gaming,"The esports tournaments saves me so much time, but it is full of bugs.",negative
+FoodTech,The recipes feature is amazing.,positive
+Gaming,The arcade is way too slow.,negative
+EdTech,The students feature is easy to use.,positive
+Ecommerce,"The electronics deals is a game changer, but it is disappointing.",positive
+Gaming,The gaming feature is a game changer.,positive
+Ecommerce,The ecommerce is disappointing.,negative
+Ecommerce,The online store feature is easy to use.,positive
+Gaming,The game studio is disappointing.,negative
+Gaming,"The level challenges is a game changer, but it is a waste of money.",positive
+FoodTech,"The catering saves me so much time, but it is full of bugs.",negative
+FinTech,The loans feature is amazing.,positive
+FoodTech,The home cooked meals is disappointing.,negative
+Ecommerce,The dropshipping feature is very reliable.,positive
+FoodTech,The cloud kitchen feature runs smoothly.,positive
+EdTech,"The live tutoring saves me so much time, but it is terrible.",negative
+SaaS,The crm feature is amazing.,positive
+Ecommerce,The handmade products feature is very reliable.,positive
+Ecommerce,The products feature saves me so much time.,positive
+Travel,The road trips has poor support.,negative
+FoodTech,"The recipes is amazing, but it is confusing to use.",negative
+Travel,The tourism guide feature saves me so much time.,positive
+Gaming,The puzzle game is way too slow.,negative
+FoodTech,The dining is way too slow.,negative
+Gaming,The tournaments is way too slow.,negative
+Travel,The getaways is terrible.,negative
+Ecommerce,The retail is disappointing.,negative
+FoodTech,The local chefs feature saves me so much time.,positive
+FoodTech,The food delivery has poor support.,negative
+HealthTech,The medicine delivery feature runs smoothly.,positive
+EdTech,"The quizzes is a game changer, but it keeps crashing.",positive
+FinTech,The investing feature works great.,positive
+Travel,The flight deals keeps crashing.,negative
+HealthTech,The yoga classes feature is easy to use.,positive
+Travel,"The trip planning is very reliable, but it is disappointing.",negative
+HealthTech,The teleconsultation is a waste of money.,negative
+Ecommerce,The d2c feature is amazing.,positive
+Ecommerce,The boutique feature runs smoothly.,positive
+EdTech,The online courses is confusing to use.,negative
+FoodTech,The recipes is confusing to use.,negative
+EdTech,"The exam prep is very reliable, but it is overpriced.",negative
+HealthTech,The fitness has poor support.,negative
+EdTech,The learning app feature is a game changer.,positive
+SaaS,The productivity software is a waste of money.,negative
+EdTech,The mentorship feature works great.,positive
+SaaS,The software is way too slow.,negative
+Travel,The booking keeps crashing.,negative
+HealthTech,The mental wellness is frustrating.,negative
+EdTech,The upskilling feature is amazing.,positive
+EdTech,The live tutoring is disappointing.,negative
+HealthTech,The healthcare feature has excellent support.,positive
+HealthTech,The telemedicine keeps crashing.,negative
+HealthTech,"The doctor appointments is easy to use, but it is terrible.",negative
+FinTech,The budgeting feature saves me so much time.,positive
+FoodTech,The meal kits is overpriced.,negative
+SaaS,The customer support software is way too slow.,negative
+Travel,The tour packages is terrible.,negative
+Gaming,The casual games is overpriced.,negative
+HealthTech,The telemedicine feature runs smoothly.,positive
+SaaS,The invoicing tool is terrible.,negative
+Ecommerce,The retail feature saves me so much time.,positive
+EdTech,"The quizzes is easy to use, but it is overpriced.",positive
+HealthTech,The healthcare is way too slow.,negative
+SaaS,The customer support software feature runs smoothly.,positive
+FoodTech,The food delivery is frustrating.,negative
+SaaS,The workspace has poor support.,negative
+Ecommerce,The ecommerce keeps crashing.,negative
+SaaS,The automation feature has excellent support.,positive
+FinTech,"The micro loans works great, but it is a waste of money.",negative
+Travel,The homestays feature works great.,positive
+EdTech,The test prep is full of bugs.,negative
+Gaming,The in game rewards feature has excellent support.,positive
+SaaS,The hr platform is full of bugs.,negative
+HealthTech,The fitness is frustrating.,negative
+Travel,The booking is terrible.,negative
+Gaming,The play to earn rewards is a waste of money.,negative
+SaaS,The automation feature is easy to use.,positive
+FoodTech,The catering feature is very reliable.,positive
+Gaming,The leaderboards is way too slow.,negative
+Gaming,The players is terrible.,negative
+Travel,The flight deals feature runs smoothly.,positive
+FinTech,The upi is terrible.,negative
+SaaS,The workflow automation is a waste of money.,negative
+Ecommerce,The shopping feature has excellent support.,positive
+FinTech,The mutual funds feature has excellent support.,positive
+FoodTech,The food delivery is confusing to use.,negative
+EdTech,The certification feature is worth every rupee.,positive
+Ecommerce,The local sellers feature runs smoothly.,positive
+EdTech,The education is confusing to use.,negative
+EdTech,The homework help feature saves me so much time.,positive
+EdTech,The mentorship has poor support.,negative
+Ecommerce,The reselling feature is super helpful.,positive
+Travel,The tour packages feature has excellent support.,positive
+Travel,The booking has poor support.,negative
+HealthTech,The teleconsultation feature is a game changer.,positive
+SaaS,The scheduling tool feature is super helpful.,positive
+Gaming,The mobile game is frustrating.,negative
+HealthTech,The healthtech feature is a game changer.,positive
+Gaming,The game studio is way too slow.,negative
+FinTech,The investing feature saves me so much time.,positive
+HealthTech,The therapy sessions feature works great.,positive
+Gaming,The fantasy sports feature is very reliable.,positive
+EdTech,"The edtech saves me so much time, but it is a waste of money.",positive
+Ecommerce,The shopping has poor support.,negative
+Ecommerce,The marketplace feature is very reliable.,positive
+FinTech,The money is a waste of money.,negative
+Ecommerce,The subscription boxes feature is worth every rupee.,positive
+FinTech,The stocks feature is a game changer.,positive
+Ecommerce,The handmade products keeps crashing.,negative
+SaaS,The analytics dashboard has poor support.,negative
+Ecommerce,The brand outlet is terrible.,negative
+FoodTech,The restaurant booking feature has excellent support.,positive
+Travel,The homestays has poor support.,negative
+EdTech,The skill learning feature is amazing.,positive
+Travel,The hotels feature runs smoothly.,positive
+SaaS,The workspace feature saves me so much time.,positive
+Travel,The travel booking feature runs smoothly.,positive
+Travel,"The homestays saves me so much time, but it is terrible.",negative
+FinTech,The financial feature is a game changer.,positive
+EdTech,The upskilling feature is very reliable.,positive
+Gaming,The metaverse feature runs smoothly.,positive
+Ecommerce,The boutique feature is very reliable.,positive
+Travel,The travel booking is way too slow.,negative
+EdTech,The learning app feature is easy to use.,positive
+EdTech,The e-learning feature is easy to use.,positive
+FinTech,The expense tracking is confusing to use.,negative
+FoodTech,The cloud kitchen is confusing to use.,negative
+FoodTech,The street food feature is easy to use.,positive
+FinTech,The finance is disappointing.,negative
+FoodTech,The meal kits feature is super helpful.,positive
+FoodTech,"The cloud kitchen is a game changer, but it is confusing to use.",positive
+Travel,"The trip planning is a game changer, but it is full of bugs.",negative
+EdTech,The language learning feature works great.,positive
+FinTech,The expense tracking feature runs smoothly.,positive
+SaaS,The software is terrible.,negative
+FinTech,The fintech is confusing to use.,negative
+Travel,"The booking saves me so much time, but it is overpriced.",negative
+Ecommerce,The online shopping is confusing to use.,negative
+FoodTech,The cooking keeps crashing.,negative
+Travel,The flight deals feature runs smoothly.,positive
+EdTech,The language learning is terrible.,negative
+FoodTech,"The dining is a game changer, but it is disappointing.",negative
+FoodTech,The healthy snacks is disappointing.,negative
+Gaming,The arcade feature is worth every rupee.,positive
+FoodTech,The catering feature works great.,positive
+FinTech,The payments feature runs smoothly.,positive
+FoodTech,The meal kits is way too slow.,negative
+SaaS,The team productivity is overpriced.,negative
+FinTech,The insurance feature is worth every rupee.,positive
+Gaming,The in game rewards feature runs smoothly.,positive
+SaaS,The b2b is confusing to use.,negative
+Ecommerce,The ecommerce feature runs smoothly.,positive
+EdTech,The tutoring has poor support.,negative
+Ecommerce,The boutique is terrible.,negative
+Ecommerce,The reselling is frustrating.,negative
+Travel,The travel itinerary feature saves me so much time.,positive
+HealthTech,The health tracking feature is very reliable.,positive
+Travel,The flights feature is easy to use.,positive
+SaaS,The remote teams has poor support.,negative
+HealthTech,The symptom checker feature runs smoothly.,positive
+HealthTech,The wellness is a waste of money.,negative
+FinTech,The stocks is terrible.,negative
+SaaS,The software feature has excellent support.,positive
+HealthTech,The workout feature is super helpful.,positive
+HealthTech,The doctor appointments feature is easy to use.,positive
+FoodTech,The food is full of bugs.,negative
+EdTech,The mentorship is full of bugs.,negative
+FinTech,The financial is disappointing.,negative
+Ecommerce,The shopping feature saves me so much time.,positive
+EdTech,The online courses feature is amazing.,positive
+FinTech,The budgeting feature has excellent support.,positive
+FinTech,The loans has poor support.,negative
+Travel,The tour packages is a waste of money.,negative
+Ecommerce,The product discovery is overpriced.,negative
+SaaS,The remote teams feature saves me so much time.,positive
+SaaS,The enterprise software feature has excellent support.,positive
+Ecommerce,The ecommerce is frustrating.,negative
+EdTech,The online courses is overpriced.,negative
+HealthTech,The mental health feature works great.,positive
+Travel,The travel booking feature is a game changer.,positive
+EdTech,The study groups feature is super helpful.,positive
+FinTech,The lending is full of bugs.,negative
+HealthTech,The diet planning feature saves me so much time.,positive
+HealthTech,The wellness has poor support.,negative
+EdTech,"The learning app works great, but it is way too slow.",negative
+SaaS,The collaboration is way too slow.,negative
+Ecommerce,The deals feature has excellent support.,positive
+Travel,The tour packages feature saves me so much time.,positive
+EdTech,The students is frustrating.,negative
+FoodTech,The meal kits feature runs smoothly.,positive
+Travel,The tour packages is disappointing.,negative
+Gaming,The game studio keeps crashing.,negative
+Ecommerce,The electronics deals has poor support.,negative
+SaaS,The workspace is a waste of money.,negative
+Travel,The tour packages feature is a game changer.,positive
+SaaS,The team productivity feature is super helpful.,positive
+HealthTech,The teleconsultation is frustrating.,negative
+SaaS,"The data reporting is amazing, but it is full of bugs.",positive
+EdTech,The virtual classroom feature saves me so much time.,positive
+SaaS,The workflow automation is confusing to use.,negative
+EdTech,"The classroom is easy to use, but it is frustrating.",positive
+Travel,The tourism guide feature is a game changer.,positive
+SaaS,The hr platform is full of bugs.,negative
+SaaS,"The project management runs smoothly, but it is full of bugs.",positive
+HealthTech,The teleconsultation feature is worth every rupee.,positive
+Travel,"The hotel booking has excellent support, but it is frustrating.",negative
+Travel,The travel itinerary is way too slow.,negative
+EdTech,The quizzes is frustrating.,negative
+FinTech,The insurance is terrible.,negative
+Ecommerce,The dropshipping keeps crashing.,negative
+HealthTech,The healthcare is overpriced.,negative
+Gaming,The in game rewards feature is very reliable.,positive
+EdTech,The certification feature is amazing.,positive
+FinTech,The micro loans is frustrating.,negative
+Travel,The vacation packages is confusing to use.,negative
+SaaS,The hr platform is overpriced.,negative
+Travel,The homestays feature is amazing.,positive
+HealthTech,The doctor appointments feature works great.,positive
+Travel,The hotels is terrible.,negative
+FoodTech,The meal planning is confusing to use.,negative
+HealthTech,"The mental health is worth every rupee, but it is frustrating.",positive
+FoodTech,The dining feature is very reliable.,positive
+FinTech,The financial feature has excellent support.,positive
+FoodTech,The foodtech keeps crashing.,negative
+HealthTech,The symptom checker feature is amazing.,positive
+HealthTech,The medical feature is easy to use.,positive
+FinTech,The transactions feature is very reliable.,positive
+Travel,The homestays is full of bugs.,negative
+Ecommerce,The storefront feature saves me so much time.,positive
+FoodTech,The street food feature is easy to use.,positive
+Gaming,The game studio feature is amazing.,positive
+SaaS,The workspace has poor support.,negative
+FinTech,The transactions feature is super helpful.,positive
+EdTech,The mentorship is overpriced.,negative
+FinTech,The stocks is a waste of money.,negative
+FoodTech,The home cooked meals is frustrating.,negative
+HealthTech,"The workout is super helpful, but it is terrible.",positive
+FoodTech,The recipes feature is a game changer.,positive
+FoodTech,The street food is disappointing.,negative
+SaaS,The saas feature is easy to use.,positive
+Gaming,The in game rewards is overpriced.,negative
+SaaS,The b2b feature is easy to use.,positive
+SaaS,The data reporting is terrible.,negative
+Gaming,"The casual games is amazing, but it has poor support.",positive
+EdTech,The tutoring is confusing to use.,negative
+Ecommerce,The boutique feature saves me so much time.,positive
+Gaming,The play to earn rewards is way too slow.,negative
+Travel,The travel booking feature is very reliable.,positive
+FoodTech,The food ordering is way too slow.,negative
+HealthTech,The health tracking feature is very reliable.,positive
+Travel,The hotels feature runs smoothly.,positive
+HealthTech,The healthcare feature is a game changer.,positive
+Gaming,"The gamers is a game changer, but it is terrible.",positive
+SaaS,The automation feature is easy to use.,positive
+Travel,The hotel booking feature saves me so much time.,positive
+Gaming,"The play to earn rewards has excellent support, but it is disappointing.",positive
+Gaming,The game streaming feature is super helpful.,positive
+Travel,The backpacking is terrible.,negative
+FinTech,"The budgeting works great, but it is overpriced.",positive
+Gaming,The gamers feature is super helpful.,positive
+Travel,The flights feature is worth every rupee.,positive
+FoodTech,The foodtech is overpriced.,negative
+SaaS,The tools is disappointing.,negative
+Ecommerce,The storefront feature is a game changer.,positive
+SaaS,The crm software is confusing to use.,negative
+HealthTech,The medicine delivery is full of bugs.,negative
+HealthTech,"The healthtech saves me so much time, but it is disappointing.",negative
+EdTech,"The language learning saves me so much time, but it is terrible.",positive
+EdTech,"The virtual classroom is super helpful, but it has poor support.",positive
+SaaS,"The customer support software is super helpful, but it is disappointing.",positive
+HealthTech,The patient records feature has excellent support.,positive
+FinTech,The budgeting feature is super helpful.,positive
+Gaming,The fantasy sports feature works great.,positive
+Ecommerce,The storefront is way too slow.,negative
+FinTech,The credit score feature works great.,positive
+Ecommerce,The product discovery keeps crashing.,negative
+Ecommerce,The products is a waste of money.,negative
+HealthTech,The telemedicine feature has excellent support.,positive
+HealthTech,The healthtech is terrible.,negative
+EdTech,The quizzes feature is worth every rupee.,positive
+FinTech,"The stocks is amazing, but it is full of bugs.",negative
+Ecommerce,The marketplace feature is super helpful.,positive
+Gaming,The mobile game feature is easy to use.,positive
+SaaS,The scheduling tool feature is very reliable.,positive
+FoodTech,The grocery delivery feature runs smoothly.,positive
+Gaming,The in game rewards is confusing to use.,negative
+Gaming,The arcade is full of bugs.,negative
+Gaming,The gaming feature is super helpful.,positive
+Travel,The homestays feature saves me so much time.,positive
+Gaming,"The game studio is amazing, but it is confusing to use.",negative
+HealthTech,"The fitness runs smoothly, but it is confusing to use.",negative
+Travel,The backpacking is terrible.,negative
+EdTech,The learning app has poor support.,negative
+FoodTech,"The food is worth every rupee, but it is full of bugs.",negative
+Ecommerce,The deals is terrible.,negative
+EdTech,The mentorship is way too slow.,negative
+FinTech,The finance is overpriced.,negative
+FinTech,The loans feature is a game changer.,positive
+HealthTech,The fitness keeps crashing.,negative
