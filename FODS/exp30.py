@@ -1,3 +1,5 @@
+#Write a Python program that allows the user to input the features of a new patient and the value of  k(number of neighbors).
+# The program should use the KNN classifier from the scikit-learn library to predict whether the patient has the medical condition or not based on the input features. 
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.neighbors import KNeighborsClassifier
