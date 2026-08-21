@@ -1,3 +1,4 @@
+#Question: Your task is to build a classification model using the KNN algorithm to predict the treatment  outcome ("Good" or "Bad") for new patients based on their features. Evaluate the model's performance  using accuracy, precision, recall, and F1-score.Make predictions on the test set and display the results.
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
